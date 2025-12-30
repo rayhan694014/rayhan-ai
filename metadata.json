@@ -1,0 +1,8 @@
+{
+  "name": "Rayhan Studio AI",
+  "description": "Rayhan's personal digital partner for code and creation, with real-time multimodal intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
